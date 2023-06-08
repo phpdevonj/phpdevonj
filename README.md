@@ -6,19 +6,19 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/phpdevonj">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Development;Expert+PHP+developer;8%2B+Years+of+experience;Working+With+Agile+Methodology."/></a>
 </p>
 
 
 ## ⚡ Github Stats
-| <a href="https://github.com/phpdevonj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phpdevonj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="phpdevonj's github stats" /></a> | <a href="https://github.com/phpdevonj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phpdevonj&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/phpdevonj"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phpdevonj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="phpdevonj's github stats" /></a> | <a href="https://github.com/phpdevonj"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phpdevonj&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## Profile Graph
-[![Phpdevonj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phpdevonj&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Phpdevonj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phpdevonj&theme=dracula)](https://github.com/phpdevonj)
 
-<a href="https://stats.hyochan.dev/en/stats/phpdevonj"><img src="https://stats.hyochan.dev/api/github-stats?login=phpdevonj" width="100%" /></a>
+<a href="https://github.com/phpdevonj"><img src="https://stats.hyochan.dev/api/github-stats?login=phpdevonj" width="100%" /></a>
 
 #
 <details>	
